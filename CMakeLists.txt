@@ -4,7 +4,7 @@ project(MyFirstSlicerExtension)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "https://github.com/leochan2009/FirstSlicerExtensionLChen")
+set(EXTENSION_HOMEPAGE "http://www.example.com/Slicer/Extensions/MyFirstSlicerExtension")
 set(EXTENSION_CATEGORY "Learning")
 set(EXTENSION_CONTRIBUTORS "Longquan Chen (Fraunhofer MeVis)")
 set(EXTENSION_DESCRIPTION "This is an example of a simple extension")
